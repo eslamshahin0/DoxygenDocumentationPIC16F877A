@@ -1,0 +1,9 @@
+<map id="ADC_program.c" name="ADC_program.c">
+<area shape="rect" id="node1" title="This file has the implementation the APIs functions of ADC for PIC16F877A" alt="" coords="299,5,413,32"/>
+<area shape="rect" id="node2" href="$d1/de4/_s_t_d___t_y_p_e_s_8h.html" title=" " alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node4" href="$d4/deb/_b_i_t___m_a_t_h_8h.html" title="This file used to avoid the size change of the variables in different compilers and arch" alt="" coords="149,80,256,107"/>
+<area shape="rect" id="node5" href="$de/dc6/_mem___map16f877a_8h.html" title="This file has the Register&#39;s adresses and bits numbers for each register in PIC16F877A" alt="" coords="281,80,431,107"/>
+<area shape="rect" id="node6" href="$d6/d2f/_a_d_c__interface_8h.html" title="This file used to know the APIs functions of ADC for PIC16F877A" alt="" coords="455,80,571,107"/>
+<area shape="rect" id="node7" href="$d0/d51/_a_d_c__config_8h.html" title="This file used to Configuration the proprties of ADC for PIC16F877A" alt="" coords="596,80,697,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="35,155,96,181"/>
+</map>

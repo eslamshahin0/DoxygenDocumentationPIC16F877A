@@ -1,0 +1,10 @@
+<map id="BIT_MATH.h" name="BIT_MATH.h">
+<area shape="rect" id="node1" title="This file used to avoid the size change of the variables in different compilers and arch" alt="" coords="407,5,502,32"/>
+<area shape="rect" id="node2" href="$d0/d29/main_8c.html" title=" " alt="" coords="5,80,67,107"/>
+<area shape="rect" id="node3" href="$d7/d73/_a_d_c__program_8c.html" title="This file has the implementation the APIs functions of ADC for PIC16F877A" alt="" coords="91,80,205,107"/>
+<area shape="rect" id="node4" href="$df/d18/_e_e_p_r_o_m__program_8c.html" title=" " alt="" coords="229,80,373,107"/>
+<area shape="rect" id="node5" href="$d4/d69/_e_x_t_i__program_8c.html" title="This file have the implementation of Internal EEPROM APIs for PIC16F877A" alt="" coords="398,80,511,107"/>
+<area shape="rect" id="node6" href="$dd/dd5/_g_p_i_o__program_8c.html" title="This file has the Implementation APIs functions of The General Porpose Input Output Pins &#160;&#160;for PIC16F..." alt="" coords="535,80,654,107"/>
+<area shape="rect" id="node7" href="$d3/d23/_i_s_r_8c.html" title="This file has Interrupt service routine for PIC16F877A" alt="" coords="678,80,733,107"/>
+<area shape="rect" id="node8" href="$dc/d54/_t_i_m_e_r_s__program_8c.html" title="This file has the APIs Implementation functions for Timers modules in PIC16F877A" alt="" coords="757,80,891,107"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="main.c" name="main.c">
+<area shape="rect" id="node1" title=" " alt="" coords="397,5,459,32"/>
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title=" " alt="" coords="5,80,72,107"/>
+<area shape="rect" id="node4" href="$d1/de4/_s_t_d___t_y_p_e_s_8h.html" title=" " alt="" coords="97,80,205,107"/>
+<area shape="rect" id="node6" href="$d4/deb/_b_i_t___m_a_t_h_8h.html" title="This file used to avoid the size change of the variables in different compilers and arch" alt="" coords="229,80,323,107"/>
+<area shape="rect" id="node7" href="$dc/dbd/_g_p_i_o__interface_8h.html" title="This file has the APIs functions of The General Porpose Input Output Pins for PIC16F877A" alt="" coords="347,80,509,107"/>
+<area shape="rect" id="node8" href="$df/dec/_e_x_t_i__interface_8h.html" title="This file has the APIs functions of External interrupts for PIC16F877A" alt="" coords="533,80,688,107"/>
+<area shape="rect" id="node9" href="$d6/d2f/_a_d_c__interface_8h.html" title="This file used to know the APIs functions of ADC for PIC16F877A" alt="" coords="713,80,869,107"/>
+<area shape="rect" id="node10" href="$dc/dfb/_e_e_p_r_o_m__interface_8h.html" title="This file has the APIs functions of Internal EEPROM for PIC16F877A" alt="" coords="893,80,1080,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="15,155,62,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="120,155,181,181"/>
+</map>
